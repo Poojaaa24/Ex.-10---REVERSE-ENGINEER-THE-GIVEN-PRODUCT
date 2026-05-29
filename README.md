@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="914" height="832" alt="image" src="https://github.com/user-attachments/assets/e63087c6-b8e9-4b43-8ceb-004631084a89" />
 
 ### Output:
+<img width="1029" height="726" alt="image" src="https://github.com/user-attachments/assets/becf8582-9db8-4f14-8cb2-ea36ac7ee920" />
 
 
-### Name:
-### Register Number:
+### Name: POOJA U
+### Register Number: 212225230209
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
